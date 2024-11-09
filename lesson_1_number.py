@@ -24,6 +24,8 @@
 # print("3 * 3 =" , 3 * 3) # Умножение
 # print("3 ** 3 =" , 3 ** 3) # Возведение в степень
 # print("10 / 3 =" , 10 / 3) # Деление
+print("10 // 3 =" , 10 // 3)
+print("10 % 3 =" , 10 % 3)
 
 
 
@@ -53,7 +55,7 @@
 # num_float = 4.2 # float - Числа с плавающей точкой
 # num_str = "qwerty" # str - Строка
 # num_bool = False # boot - Логические значения
-# num_null = None # null - Ничего
+# num_null = None # NoneType - Ничего
 
 # print("num_int =" , num_int)
 # print("num_float =" , num_float)
