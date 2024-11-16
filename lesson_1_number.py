@@ -51,17 +51,17 @@
 
 
 # типы данных
-# num_int = 8 # int - Целые числа
-# num_float = 4.2 # float - Числа с плавающей точкой
-# num_str = "qwerty" # str - Строка
-# num_bool = False # boot - Логические значения
-# num_null = None # NoneType - Ничего
+num_int = 8 # int - Целые числа
+num_float = 4.2 # float - Числа с плавающей точкой
+num_str = "qwerty" # str - Строка
+num_bool = False # boot - Логические значения
+num_null = None # NoneType - Ничего
 
-# print("num_int =" , num_int)
-# print("num_float =" , num_float)
-# print("num_str =" , num_str)
-# print("num_bool =" , num_bool)
-# print("num_null =" , num_null)
+print("num_int =" , num_int)
+print("num_float =" , num_float)
+print("num_str =" , num_str)
+print("num_bool =" , num_bool)
+print("num_null =" , num_null)
 
 
 
